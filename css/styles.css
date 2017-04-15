@@ -1,0 +1,35 @@
+.blue {
+  background-color: blue;
+  padding: 30px;
+  margin: 20px;
+}
+
+.blue1 {
+  background-color: blue;
+  padding: 60px;
+}
+
+.yellow {
+  background-color: yellow;
+  padding: 30px;
+}
+
+.red {
+  padding: 50px;
+  background-color: red;
+}
+
+.jumbotron {
+  margin: 20px;
+}
+
+.blue3 {
+  background-color: blue;
+  padding: 20px;
+}
+
+.orange {
+  background-color: orange;
+  padding: 80px;
+  margin-top: 20px;
+}
